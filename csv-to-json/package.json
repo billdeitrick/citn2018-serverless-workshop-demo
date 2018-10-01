@@ -1,0 +1,11 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "Serverless CSV to JSON Conversion Service",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.54.0",
+    "babel-runtime": "^6.23.0"
+  }
+}
