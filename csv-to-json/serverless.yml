@@ -1,4 +1,4 @@
-service: csv-to-json-oreilly
+service: csv-to-json-citn2018
 
 frameworkVersion: ">=1.8.0 <2.0.0"
 

@@ -1,4 +1,4 @@
-service: jokes-rest-api-oreilly
+service: jokes-rest-api-citn2018
 
 frameworkVersion: ">=1.8.0 <2.0.0"
 

@@ -20,8 +20,8 @@ module.exports.checkMenu = function (event, context, callback) {
       let result = 'No';
 
       //console.log('parsedText: ', parsedText);
-      if (parsedText.match(/steak/i) && parsedText.match(/Tacos/i)) {
-        result = 'Steak Tacos Yes!!!!!';
+      if (parsedText.match(/Buffalo Shrimp Tacos/i)) {
+        result = 'Buffalo Shrimp Tacos ---- Yes!!!!!';
       }
       callback(null, responseUtils.success(result));
     }

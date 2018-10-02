@@ -1,4 +1,4 @@
 config:
   csvFile: database.csv
   jsonFile: database.json
-  bucketName: csv-to-json-oreilly-kold-dev-113017
+  bucketName: csv-to-json-citn2018

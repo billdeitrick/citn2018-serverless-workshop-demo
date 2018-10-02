@@ -1,4 +1,4 @@
-service: oreilly-live-daily-menu
+service: daily-menu-citn2018
 
 frameworkVersion: ">=1.8.0 <2.0.0"
 
